@@ -1,21 +1,8 @@
 /*
 
-- kell egy leírás az inputokról
-- fileneveket harmonizálni kell 
-- rendbe kéne tenni, hogy milyen változók legyenek a datában, és azok legyenek jól dokumentálva
-- el kell dönteni, mennyire mélye menjen vissza a replication package - pl a raw datát az electionben ki akarjuk adni? a podesből mennyi menjen bele?
-- az elemzési részt átláthatóbbá tenni  
+This script generates the two analysis data sets for the paper, one for 1999-2004,
+the other for 2014-2019.
 
-
-- minden empíria egy komprehenzív izében (pl a folytonos változat sokkal szignifikánsabb)
-		
-
-		PODESBŐL PANELBŐL A FELESLEGES VÁLTOZÓKAT KI KELL DOBNI
-		
-		********
-		- az empirical analysisből mindent ami data generation azt át kell rakni a data generáló scriptekbe
-		- a végén kitörölni minden változót ami úgy kezdődik hogy podes
-		************
 */
 
 
